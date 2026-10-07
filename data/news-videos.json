@@ -1,0 +1,5 @@
+[
+  { "id": "int-001", "kind": "interview", "title": "Post-match interview: winning captain", "person": "Captain (sample)", "matchId": "55b23d10-5c7f-4651-b0cd-74ee9b0f7967", "youtubeId": "", "durationSec": 184, "publishedAt": "2026-10-05T08:00:00+02:00", "blurb": "Placeholder entry. Replace youtubeId with a real upload to enable playback." },
+  { "id": "int-002", "kind": "interview", "title": "Player of the match: reaction", "person": "Player of the match (sample)", "matchId": "55b23d10-5c7f-4651-b0cd-74ee9b0f7967", "youtubeId": "", "durationSec": 142, "publishedAt": "2026-10-05T09:00:00+02:00", "blurb": "Placeholder entry. Replace youtubeId with a real upload to enable playback." },
+  { "id": "int-003", "kind": "interview", "title": "Pre-season: what the league means to us", "person": "Club chair (sample)", "matchId": null, "youtubeId": "", "durationSec": 231, "publishedAt": "2026-10-01T10:00:00+02:00", "blurb": "Placeholder entry. Replace youtubeId with a real upload to enable playback." }
+]
